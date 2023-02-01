@@ -1,6 +1,6 @@
 {
   "name": "@rfirefly/eslint-config-monorepo",
-  "version": "1.0.0",
+  "version": "1.0.8",
   "private": true,
   "packageManager": "pnpm@7.1.0",
   "author": "rfirefly",
@@ -15,7 +15,7 @@
     "@rfirefly/eslint-config": "*",
     "bumpp": "^8.2.1",
     "eslint": "^8.33.0",
-    "eslint-plugin-antfu": "workspace:*",
+    "@rfirefly/eslint-plugin-rfirefly": "workspace:*",
     "rimraf": "^4.1.2",
     "typescript": "^4.9.4"
   }

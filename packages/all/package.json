@@ -1,6 +1,6 @@
 {
   "name": "@rfirefly/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.8",
   "description": "rfirefly's ESLint config",
   "author": "rfirefly",
   "license": "MIT",
